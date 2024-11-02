@@ -1,0 +1,14 @@
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\bin\Debug\net8.0\Distributeur de Tickets.exe
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\bin\Debug\net8.0\Distributeur de Tickets.deps.json
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\bin\Debug\net8.0\Distributeur de Tickets.runtimeconfig.json
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\bin\Debug\net8.0\Distributeur de Tickets.dll
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\bin\Debug\net8.0\Distributeur de Tickets.pdb
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\obj\Debug\net8.0\Distributeur de Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\obj\Debug\net8.0\Distributeur de Tickets.AssemblyInfoInputs.cache
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\obj\Debug\net8.0\Distributeur de Tickets.AssemblyInfo.cs
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\obj\Debug\net8.0\Distributeur de Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\obj\Debug\net8.0\Distributeur de Tickets.dll
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\obj\Debug\net8.0\refint\Distributeur de Tickets.dll
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\obj\Debug\net8.0\Distributeur de Tickets.pdb
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\obj\Debug\net8.0\Distributeur de Tickets.genruntimeconfig.cache
+C:\Users\Maguii\source\repos\Distributeur de Tickets\Distributeur de Tickets\obj\Debug\net8.0\ref\Distributeur de Tickets.dll
