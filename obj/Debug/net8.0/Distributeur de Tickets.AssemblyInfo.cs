@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Distributeur de Tickets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b5fcbcc27447a267a09bfb47ce07c156b1929bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Distributeur de Tickets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Distributeur de Tickets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
